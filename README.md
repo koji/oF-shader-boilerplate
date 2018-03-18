@@ -3,4 +3,6 @@
 This is using ofShader and ofxGui.   
 In terms of shader, this is using fragment shader(test.frag).  
 
-![demo](output.mp4)
+video  
+output.mp4
+
