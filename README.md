@@ -4,5 +4,5 @@ This is using ofShader and ofxGui.
 In terms of shader, this is using fragment shader(test.frag).  
 
 video  
-output.mp4
+https://github.com/sleepy-maker/oF-shader-boilerplate/blob/master/output.mp4
 
