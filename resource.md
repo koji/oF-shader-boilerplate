@@ -15,8 +15,13 @@ https://github.com/patriciogonzalezvivo/glslViewer
 ## Introducing Shaders
 http://openframeworks.cc/ofBook/chapters/shaders.html
 
+## openFrameworks
+http://openframeworks.cc/
 
-## openGL super bible
+##### openFrameworks 101  
+https://github.com/sleepy-maker/openFrameworks101
+
+## openGL super bible(book)
 http://www.openglsuperbible.com/
 
 
