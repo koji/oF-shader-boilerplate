@@ -7,6 +7,11 @@ http://editor.thebookofshaders.com/
 ## shadertoy
 https://www.shadertoy.com/
 
+
+## glslViewer
+https://github.com/patriciogonzalezvivo/glslViewer
+
+
 ## Introducing Shaders
 http://openframeworks.cc/ofBook/chapters/shaders.html
 
